@@ -29,15 +29,6 @@ modules:
       - rust
       - cargo
       - zed
-      - fuse 
-      - fuse-libs 
-      - libglvnd-egl 
-      - libglvnd-opengl 
-      - libglvnd-glx 
-      - harfbuzz 
-      - fontconfig 
-      - fribidi 
-      - libthai
       - gparted
 
   - type: default-flatpaks
